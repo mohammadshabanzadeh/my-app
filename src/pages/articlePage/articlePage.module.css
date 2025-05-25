@@ -1,0 +1,15 @@
+.articleWrapper{
+    
+}
+.articleWrapper h2{
+    text-align: right;
+}
+.articleInfo{
+    text-align: right;
+}
+.articleInfo span{
+    margin-left: 30px;
+}
+.articleWrapper img{
+    margin-top: 30px;
+}
