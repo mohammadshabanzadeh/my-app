@@ -1,19 +1,76 @@
 {
-    "articles" :{
-        "status":true,
-        "data":[
-            {
-                "id" : 1,
-                "imageUrl": "",
-                "title" : "تست عنوان 1",
-                "readingTime": "5"
-            },
-            {
-                "id" : 2,
-                "imageUrl": "",
-                "title" : "تست عنوان 2",
-                "readingTime": "8"
-            }
-        ]
+  "articles": [
+    {
+      "id": 1,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 1",
+      "readingTime": "5",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 2",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 3",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 4",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 5",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 6",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 7",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "تست عنوان 8",
+      "readingTime": "8",
+      "date": "22/11/33",
+      "athor": "محمدحسین",
+      "content": "این متن یک تست است"
     }
+  ]
 }

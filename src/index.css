@@ -18,3 +18,7 @@ h1,h2,h3,h4,h5,h6,p,ul{
 .container {
   padding: 0 150px;
 }
+*{
+  color:black;
+  text-decoration: none;
+}
