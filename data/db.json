@@ -1,0 +1,19 @@
+{
+    "articles" :{
+        "status":true,
+        "data":[
+            {
+                "id" : 1,
+                "imageUrl": "",
+                "title" : "تست عنوان 1",
+                "readingTime": "5"
+            },
+            {
+                "id" : 2,
+                "imageUrl": "",
+                "title" : "تست عنوان 2",
+                "readingTime": "8"
+            }
+        ]
+    }
+}

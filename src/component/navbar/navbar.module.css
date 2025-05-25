@@ -1,21 +1,27 @@
-.headerWrapper{
-    box-shadow: 0 3px 5px #ddd;
+.headerWrapper {
+  box-shadow: 0 3px 5px #ddd;
 }
 .header {
-    text-align: center;
-    height: 60px;
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    flex-direction: row-reverse;
-    
+  text-align: center;
+  height: 60px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: row-reverse;
 }
-.header ul{
-    display: flex;
-    justify-content: end;
-    flex-direction: row-reverse;
-    padding-right: 30px;
+.header ul {
+  display: flex;
+  justify-content: end;
+  flex-direction: row-reverse;
+  padding-right: 30px;
 }
-.header ul li{
-    margin-left: 20px;
+.header ul li {
+  margin-left: 20px;
+  cursor: pointer;
+  transition: 0.2s color ease;
+  transition: 0.2s font-weight ease;
+}
+.header ul li:hover {
+  color: rgb(58, 30, 100);
+  font-weight: bold;
 }
