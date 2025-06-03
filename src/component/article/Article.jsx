@@ -5,7 +5,7 @@ function Article(props) {
     <div className={styled.articleWrapper}>
         <img src={props.article.imageUrl} alt=""/>
         <h3>{props.article.title}</h3>
-        <p>خواندن {props.article.readingTime} دقیقه ای</p>
+        <p>خواندن  {props.article.readingTime} دقیقه ای</p>
     </div>
   );
 }

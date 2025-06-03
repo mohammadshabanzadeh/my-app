@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "id": 1,
+      "id": "1",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 1",
       "readingTime": "5",
@@ -10,7 +10,7 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 2,
+      "id": "2",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 2",
       "readingTime": "8",
@@ -19,7 +19,7 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 3,
+      "id": "3",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 3",
       "readingTime": "8",
@@ -28,7 +28,7 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 4,
+      "id": "4",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 4",
       "readingTime": "8",
@@ -37,7 +37,7 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 5,
+      "id": "5",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 5",
       "readingTime": "8",
@@ -46,7 +46,7 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 6,
+      "id": "6",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 6",
       "readingTime": "8",
@@ -55,7 +55,7 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 7,
+      "id": "7",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 7",
       "readingTime": "8",
@@ -64,13 +64,31 @@
       "content": "این متن یک تست است"
     },
     {
-      "id": 8,
+      "id": "8",
       "imageUrl": "https://shorturl.at/w48hx",
       "title": "تست عنوان 8",
       "readingTime": "8",
       "date": "32/32/32",
       "athor": "رضا",
       "content": "این متن یک تست است"
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "عنوان نهم",
+      "readingTime": "44",
+      "date": "12/11/98",
+      "athor": "پشمک",
+      "content": "اینیک مقاله جدید است"
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://shorturl.at/w48hx",
+      "title": "عنوان دهم",
+      "readingTime": "88",
+      "date": "88/88/88",
+      "athor": "88/",
+      "content": "88888"
     }
   ]
 }
